@@ -1,0 +1,15 @@
+.header {
+  background-color: rgb(34, 34, 34);
+  display: grid;
+  grid-template-columns: auto 1fr auto;
+  margin: 10px;
+  margin-left: 100px;
+}
+
+.logo {
+  max-width: 50px;
+}
+
+.hamburger-menu {
+  background-color: red;
+}
